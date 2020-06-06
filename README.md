@@ -1,0 +1,2 @@
+# scoop
+for windows setup
