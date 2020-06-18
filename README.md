@@ -28,6 +28,14 @@ scoop install firefox googlechrome vscode keypiinha teraterm ccleaner
 scoop install firefox googlechrome vscode keypirinha github windows-terminal ccleaner
 ```
 
+## 自作バケット追加
+```
+scoop bucket add mybucket https://github.com/black2rock/scoop.git
+scoop search clcl
+scoop search stone
+scoop install clcl
+```
+
 ## VSCode拡張機能インストール
 ```
 .\vscode-pkg-install.ps1
